@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo | Congo 主题博客装修日志 01 on 俯瞰风景</title>
+    <link>http://localhost:1313/posts/hello_world/</link>
+    <description>Recent content in Hugo | Congo 主题博客装修日志 01 on 俯瞰风景</description>
+    <generator>Hugo</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/hello_world/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
